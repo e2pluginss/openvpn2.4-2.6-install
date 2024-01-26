@@ -1,7 +1,3 @@
-### OpenVPN 2.4 - 2.6 Installer
-
-Welcome to the OpenVPN 2.4 - 2.6 Installer! This script simplifies the process of setting up an OpenVPN server on various Linux distributions, supporting versions from 2.4 to 2.6. It's tailored to be user-friendly, ensuring a smooth installation experience.
-Features
 # OpenVPN 2.4 - 2.6 Installer
 
 Welcome to the OpenVPN 2.4 - 2.6 Installer! This script simplifies the process of setting up an OpenVPN server on various Linux distributions, supporting versions from 2.4 to 2.6. It's tailored to be user-friendly, ensuring a smooth installation experience.
