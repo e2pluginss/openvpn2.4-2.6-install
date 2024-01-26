@@ -26,7 +26,7 @@ Run the following command in your terminal to start the installation:
 
 wget https://raw.githubusercontent.com/e2pluginss/openvpn2.4-2.6-install/main/openvpn-install-new.sh && chmod 0777 openvpn-install-new.sh &&  bash openvpn-install-new.sh
 
-
+```
 
 ### The script will guide you through the process with simple prompts.
 ### How it Works
